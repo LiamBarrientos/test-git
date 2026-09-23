@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/LiamBarrientos/test-git)
+
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
