@@ -1,5 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/LiamBarrientos/test-git)
-
+![GitHub Release](https://img.shields.io/github/v/release/LiamBarrientos/test-git)
 
 # 🦹‍♂️ La Legión del Mal
 
