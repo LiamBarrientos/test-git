@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/LiamBarrientos/test-git)
 ![GitHub Release](https://img.shields.io/github/v/release/LiamBarrientos/test-git)
 
-# 🦹‍♂️ La Legión del Mal - From Remote and Local
+# 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
